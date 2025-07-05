@@ -24,6 +24,9 @@ Stores information about customers who place orders.
 | Email       | VARCHAR   | Contact email address |
 | Phone       | VARCHAR   | Mobile number |
 | Address     | TEXT      | Customer's address |
+![Screenshot 2025-07-05 121712]
+(https://github.com/user-attachments/assets/6822fe6a-348d-4063-9dd7-e287de955b3d)
+
 
 ### 2. 🗂️ Categories
 
