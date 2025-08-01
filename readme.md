@@ -1,8 +1,4 @@
-Company Name : Senstron 
-Name         : Vamsi Bestha
-Intern Id    : ST4WFE88
-Duration     : 08 weeks
-Mentor       : Neela Santhosh
+Company Name : Senstron  Name         : Vamsi Bestha Intern Id    : ST4WFE88 Duration     : 08 weeks Mentor       : Neela Santhosh
 # 🛒 Online Shopping Database
 
 This project contains a detailed MySQL database schema and sample data for a simplified online shopping system. The goal is to demonstrate core database concepts such as normalization, relationships, and data integrity using a practical e-commerce use case.
